@@ -1,4 +1,4 @@
-# Number Recognition Neural Network
+# c_number_net
 
 A simple neural network implementation in C for handwritten digit recognition using the MNIST dataset format.
 
